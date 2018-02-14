@@ -38,7 +38,7 @@ Since some techniques for spatio-temporal analysis can not deal with missing val
 ```r
 library(devtools)
 install_github("marchtaylor/sinkr")
-install_github("ffilipponi/rtsa")
+install_github("ec-ecopotential/rtsa")
 ```
 
 ### Authors
